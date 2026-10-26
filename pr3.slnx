@@ -1,0 +1,20 @@
+<Solution>
+  <Project Path="pr3 1.2/pr3 1.2.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="4dbb19bf-5010-4bc8-8b29-a8f66ad77c4f">
+    <Build Project="false" />
+  </Project>
+  <Project Path="pr3 2.1/pr3 2.1.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="c5974711-b5c7-47ea-8bcd-a42a25310f1e">
+    <Build Project="false" />
+  </Project>
+  <Project Path="pr3 2.2/pr3 2.2.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="8460ee11-3e2d-4bee-ad41-f74ae720ffeb">
+    <Build Project="false" />
+  </Project>
+  <Project Path="pr3 3.1/pr3 3.1.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="8f0e82c5-a834-4ead-8c75-d4a4b794536d">
+    <Build Project="false" />
+  </Project>
+  <Project Path="pr3 3.2/pr3 3.2.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="28df1007-b797-4a95-aa3d-135feb6f8d1c">
+    <Build Project="false" />
+  </Project>
+  <Project Path="pr3/pr3.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="907c5d84-759f-464d-878a-363d80060133">
+    <Build Project="false" />
+  </Project>
+</Solution>
