@@ -16,11 +16,11 @@ class ValidatedField:
 
     def __set__(self, obj, value):
         if not isinstance(value, self.expected_type):
-            raise TypeError("TypeError")
+            raise TypeError(f"Неправильний тип, очікуваний тип: {self.expected_type}")
         if self.min_value is not None and value < self.min_value:
-            raise ValueError("ValueError")
+            raise ValueError(f"Значення занадто мале, мінімальне значення: {self.min_value} ")
         if self.max_value is not None and value > self.max_value:
-            raise ValueError("ValueError")
+            raise ValueError(f"Значення занадто велике, максимальне значення: {self.max_value}")
         setattr(obj, self.private_name, value)
 
 class ConfigSection:
